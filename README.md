@@ -14,3 +14,17 @@ This project involves a systematic analysis of deep neural networks-based image 
 * You saw an image and your brain can easily tell what the image is about, but can a computer tell what the image is representing? Computer vision researchers worked on this a lot and they considered it impossible until now! 
 * With the advancement in Deep learning techniques, the availability of huge datasets, and the computing power of data science, we can build models that can tell what an image is, and what objects are seen. 
 </p>
+
+<h2 align = "left"> Screenshots </h2>
+<h4 align = "left"> Captions for Images </h4> 
+
+<p align = "center">
+<img src = "/Project_Snips/Image1.png" alt="Image1" height = 300 width = 500/>
+<h5 align = "center"> Image1L image fed into the model as input </h5> 
+</p>
+<br>
+<p align = "center">
+<img src = "/Project_Snips/Image1-caption.png" alt="Image1-caption" height = 300 width = 500/>
+<h5 align = "center"> Caption for Image 1: “motorcycle racer is riding on the track”</h5> 
+</p>
+
