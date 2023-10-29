@@ -48,7 +48,7 @@ This project involves a systematic analysis of deep neural networks-based image 
 <p align = "center">
 <img src = "/Project_Snips/Sample_captions2.png" alt="Sample captions2" height = 300 width = 600/> </p>
 <p align = "center">
-<img src = "/Project_Snips/Sample_captions3.png" alt="Sample captions3" height = 300 width = 600/> </p>
+<img src = "/Project_Snips/Sample_captions3.png" alt="Sample captions3" height = 500 width = 600/> </p>
 
 
 
