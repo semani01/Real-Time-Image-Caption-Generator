@@ -20,11 +20,26 @@ This project involves a systematic analysis of deep neural networks-based image 
 
 <p align = "center">
 <img src = "/Project_Snips/Image1.png" alt="Image1" height = 300 width = 500/>
-<h5 align = "center"> Image1L image fed into the model as input </h5> 
+<h5 align = "center"> Image1: image fed into the model as input </h5> 
 </p>
 <br>
 <p align = "center">
 <img src = "/Project_Snips/Image1-caption.png" alt="Image1-caption" height = 300 width = 500/>
-<h5 align = "center"> Caption for Image 1: “motorcycle racer is riding on the track”</h5> 
+<h5 align = "center"> Caption for Image 1: "motorcycle racer is riding on the track"</h5> 
 </p>
+<br>
+<br>
+
+<p align = "center">
+<img src = "/Project_Snips/Image2.png" alt="Image1" height = 300 width = 500/>
+<h5 align = "center"> Image2: image fed into the model as input </h5> 
+</p>
+<br>
+<p align = "center">
+<img src = "/Project_Snips/Image2-caption.png" alt="Image2-caption" height = 300 width = 500/>
+<h5 align = "center"> Caption for Image 2: "black dog is running through the water"</h5> 
+</p>
+<br>
+<br>
+
 
