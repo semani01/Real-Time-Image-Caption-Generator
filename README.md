@@ -3,6 +3,6 @@ This project involves a systematic analysis of deep neural networks-based image 
 
 
 <p align = "center">
-<img src = "/model/pipeline.png" alt="pipeline" height = 300 width = 400/>
+<img src = "/model/pipeline.png" alt="pipeline" height = 250 width = 350/>
 <h5 align = "center"> Image Caption Generation Pipeline </h5> 
 </p>
