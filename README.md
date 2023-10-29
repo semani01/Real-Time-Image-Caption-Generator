@@ -1,6 +1,6 @@
 <h1 align = "center"> Real-Time Image Caption Generator </h1>
 
-p align="center">
+<p align="center">
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
 
 This project involves a systematic analysis of deep neural networks-based image caption generation methods. With an image as the input, the method can output an English sentence describing the image's content. Analyzed three components of the method: convolutional neural network (CNN), recurrent neural network (RNN), and sentence generation. By replacing the CNN part with three state-of-the-art architectures, a proposal for a simplified version of the Gated Recurrent Units (GRU) as a new recurrent layer had been made, implementing both Python and Keras library in Jupyter Notebook. The simplified GRU achieves comparable results when compared with the long short-term memory (LSTM) method. But it has a few parameters which save memory and is faster in training. Finally, multiple sentences are generated using Beam Search. The experiments show that the modified method can generate captions comparable to the state-of-the-art methods with less training memory.
