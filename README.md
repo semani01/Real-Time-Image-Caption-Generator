@@ -10,7 +10,7 @@ This project involves a systematic analysis of deep neural networks-based image 
 
 <h2 align = "center"> Problem Statement </h2> 
 <p>
-- In today’s world, technology plays a vital role, without technology, it is hard to imagine our day-to-day life. Every day an innovation is taking place in some part of the world. Image recognition and computer vision are such developments that are taking the world by storm.
-- You saw an image and your brain can easily tell what the image is about, but can a computer tell what the image is representing? Computer vision researchers worked on this a lot and they considered it impossible until now! 
-- With the advancement in Deep learning techniques, the availability of huge datasets, and the computing power of data science, we can build models that can tell what an image is, and what objects are seen. 
+* In today’s world, technology plays a vital role, without technology, it is hard to imagine our day-to-day life. Every day an innovation is taking place in some part of the world. Image recognition and computer vision are such developments that are taking the world by storm.
+* You saw an image and your brain can easily tell what the image is about, but can a computer tell what the image is representing? Computer vision researchers worked on this a lot and they considered it impossible until now! 
+* With the advancement in Deep learning techniques, the availability of huge datasets, and the computing power of data science, we can build models that can tell what an image is, and what objects are seen. 
 </p>
